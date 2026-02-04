@@ -1,0 +1,17 @@
+port: 8080
+secret: "change-me"
+endpoint: "/command"
+nodeName: "node-1"
+node-region: "eu"
+
+response:
+  nodeName: true
+  node_region: true
+  online: true
+  max_online: true
+  mspt: true
+  tps: true
+  total_memory: true
+  free_memory: true
+  max_memory: true
+  timestamp: true
