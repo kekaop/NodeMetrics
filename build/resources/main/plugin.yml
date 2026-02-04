@@ -1,4 +1,0 @@
-name: NodeMetrics
-version: '1.0-SNAPSHOT'
-main: dev.kekaop.NodeMetrics
-api-version: '1.20'
